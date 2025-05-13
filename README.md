@@ -1,7 +1,3 @@
-Thanks for the detailed code — it’s quite well-structured and readable. Based on your results and the full pipeline, here’s a breakdown of where you're doing well and where performance can be improved.
-
----
-
 ### ✅ **What’s Good**
 
 * **Dataset tiling with overlap**: Useful for increasing dataset size and capturing boundary context.

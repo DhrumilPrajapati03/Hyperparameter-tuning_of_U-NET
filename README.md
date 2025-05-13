@@ -1,3 +1,5 @@
+Thanks for the detailed code — it’s quite well-structured and readable. Based on your results and the full pipeline, here’s a breakdown of where you're doing well and where performance can be improved.
+
 ---
 
 ### ✅ **What’s Good**
@@ -143,3 +145,5 @@ Add per-class metrics per epoch using a `Keras` custom callback if you want fine
 | Postprocessing    | None        | Try CRF or morphological filtering    |
 
 ---
+
+Would you like help rewriting part of this pipeline (like data loading with `.tif`, using 10 bands, or changing to image concatenation)?
